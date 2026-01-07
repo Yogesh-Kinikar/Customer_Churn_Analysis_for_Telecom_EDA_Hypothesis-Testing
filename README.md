@@ -26,6 +26,7 @@ This project provides a comprehensive analysis of customer churn in the telecom 
    - **H₀ (Null):** No difference in churn rates between senior and non-senior customers *(P_senior = P_non‑senior)*  
    - **H₁ (Alternative):** A significant difference exists *(P_senior ≠ P_non‑senior)*
    - **Result:** p-value < 0.001; Odds Ratio (OR) = **2.31**; 95% CI **[2.02 – 2.63]**
+   - **Conclusion**: Reject H₀. A significant difference exists in Churn rate for Senior citizen vs other customers
    - ✅ Interpretation: Senior citizens churn significantly more and should be prioritized for retention programs.
 <img width="1316" height="343" alt="image" src="https://github.com/user-attachments/assets/026769f7-a787-4164-9729-2ac20ceaed33" />
 
